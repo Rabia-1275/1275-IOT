@@ -279,7 +279,7 @@ char ssid[] = "Wokwi-GUEST";
 char pass[] = "";
 
 // ---------- MQTT ----------
-const char *mqtt_server = "10.13.47.130"; // Mosquitto / Cloud broker
+const char *mqtt_server = "test.mosquitto.org"; // Mosquitto / Cloud broker
 const int mqtt_port = 1883;
 
 // Topics
