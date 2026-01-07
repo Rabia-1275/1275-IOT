@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "smart_medicine_box",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
